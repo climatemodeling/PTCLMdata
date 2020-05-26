@@ -1,0 +1,5 @@
+site_code,soil_depth,n_layers,layer_depth,layer_sand%,layer_clay%
+BR-Sa1,-999,1,-999,25.0,25.0
+US-Me2,-999,1,-999,67.0,7.0
+US-MOz,-999,1,-999,55.0,5.0
+US-UMB,1.21,1,1.21,92.6,0.6

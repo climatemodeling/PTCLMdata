@@ -1,0 +1,6 @@
+site_code,name,state,lon,lat,elev,startyear,endyear,alignyear
+BR-Sa1,"Santkm67",BR,-54.9589,-2.8567,100,2002,2011,1851
+CA-Man,"NOBS",MB,-98.4808,55.87962,260,1994,2008,1851
+US-Me2,"Metolius Intermediate Pine",OR,-121.5572,44.4524,1253,2002,2014,1851
+US-MOz,"Missouri Ozark Site",MO,-92.2,38.7441,291.4,2004,2014,1851
+US-UMB,"UMBS",MI,-84.7138,45.5598,234,2000,2014,1851
